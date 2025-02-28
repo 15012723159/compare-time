@@ -9,16 +9,10 @@
     },
     "authors": [
         {
-            "name": "qinfuxing",
-            "email": "qinfuxing@anycubic.com"
+            "name": "markcolin",
+            "email": "523566228@qq.com"
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packagist.org"
-        }
-    ]
+    "require": {}
 }
