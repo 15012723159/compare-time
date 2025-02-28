@@ -1,20 +1,20 @@
 {
-    "name": "markcolin/compare-time",
-    "description": "Compare two time range returns for intersection",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Markcolin\\CompareTime\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "markcolin",
-            "email": "523566228@qq.com"
-        }
-    ],
-    "require": {
-        "php": ">=7.0",
-        "composer-plugin-api": "^1.0 || ^2.0"
+  "name": "markcolin/compare-time",
+  "description": "Compare two time range returns for intersection",
+  "license": "MIT",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "Markcolin\\CompareTime\\": "src/"
     }
+  },
+  "authors": [
+    {
+      "name": "markcolin",
+      "email": "523566228@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  }
 }
