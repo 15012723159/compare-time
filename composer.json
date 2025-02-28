@@ -1,0 +1,18 @@
+{
+    "name": "markcolin/compare-time",
+    "description": "Compare two time range returns for intersection",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Markcolin\\CompareTime\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "qinfuxing",
+            "email": "qinfuxing@anycubic.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
