@@ -13,6 +13,9 @@
             "email": "523566228@qq.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "php": ">=7.0",
+        "composer-plugin-api": "^1.0 || ^2.0",
+        "markcolin/compare-time": "1.0.0"
+    }
 }
