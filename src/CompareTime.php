@@ -1,7 +1,7 @@
 <?php
 /**
  * @Notes:
- * @Author: qinfuxing
+ * @Author: markcolin
  * @Date: 2025/2/28
  * @Time: 11:40
  * @Interface CompareTime
@@ -11,7 +11,7 @@
 namespace Markcolin\CompareTime;
 
 /**
- * User: qinfuxing
+ * User: markcolin
  * Date: 2025/2/28
  * Time: 11:40
  */
@@ -20,7 +20,7 @@ class CompareTime
     /**
      *$time_rannge_1 eg [1740375807,1740675807]
      * $time_rannge_2 eg [1740575807,1740875807]
-     * User: qinfuxing
+     * User: markcolin
      * Date: 2025/2/28
      * Time: 11:41
      */
