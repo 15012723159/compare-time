@@ -1,0 +1,19 @@
+{
+    "name": "markcolin/compare-time",
+    "description": "Compare two time returns to see if there is a crossover",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Markcolin\\CompareTime\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "qinfuxing",
+            "email": "qinfuxing@anycubic.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
